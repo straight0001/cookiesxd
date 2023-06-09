@@ -1,0 +1,17 @@
+#menu li {
+  width: 2000px;
+  height: 30px;
+  line-height: 30px;
+  border-bottom: 1px solid #282828;
+  padding: 0 1em;
+}
+#menu ul
+{
+  margin-top:  42px;
+}
+#menu ul li
+{
+  list-style-type: none;
+  display: inline;
+  margin-left: 50px;
+}
